@@ -302,4 +302,17 @@ button {
     .app-header h1 {
         font-size: 1.75rem;
     }
+
+    .metrics-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .meal-row {
+        grid-template-columns: 1fr;
+        gap: 0.25rem;
+    }
+
+    .grocery-list {
+        grid-template-columns: 1fr;
+    }
 }
